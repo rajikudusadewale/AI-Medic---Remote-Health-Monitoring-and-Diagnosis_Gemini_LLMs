@@ -16,7 +16,7 @@ AI Medic is a Streamlit application that utilizes Google's Generative AI (Gemini
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ai-medic.git
+   git clone https://github.com/rajikudusadewale/HealthCare_Bot_Gemini_LLMs/tree/master.git
    ```
 
 2. Install the required dependencies:

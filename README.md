@@ -65,7 +65,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact [your_email@example.com](mailto:dedatadude@akraji.com).
+For any questions or inquiries, please contact [Email](mailto:dedatadude@akraji.com).
 
 ---
 
